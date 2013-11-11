@@ -1,30 +1,30 @@
 {
-  "file_exclude_patterns":
-  [
-    ".DS_Store",
-    "*.sublime-project",
-    "*.sublime-workspace"
-  ],
-  "folder_exclude_patterns":
-  [
-    ".git",
-    ".svn",
-    ".hg",
-    "CVS",
-    ".sass-cache",
-    ".bundle",
-    "bundle",
-    "bin",
-    "script",
-    ".tmp",
-    "tmp"
-  ],
-  "highlight_modified_tabs": true,
-  "ignored_packages":
-  [
-    "Vintage"
-  ],
-  "tab_size": 2,
-  "theme": "Soda Dark.sublime-theme",
-  "translate_tabs_to_spaces": true
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.sublime-project",
+		"*.sublime-workspace"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		".svn",
+		".hg",
+		"CVS",
+		".sass-cache",
+		".bundle",
+		"bundle",
+		"bin",
+		"script",
+		".tmp",
+		"tmp"
+	],
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
